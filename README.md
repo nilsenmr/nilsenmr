@@ -10,7 +10,7 @@
 ```javascript
 const nilsen = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node, Styled-Components, Docker],
   technologies: {
         mobileApp: ["Android App"],
@@ -23,7 +23,7 @@ const nilsen = {
             PHP: ["Laravel"],
             python: ["flask"]
         },
-        devOps: ["AWS", "Docker", "S3", "Nginx"],
+        devOps: ["AWS", "Docker"],
         databases: ["mongo", "MySql", "PostgreSQl"],
     },
 }
